@@ -47,6 +47,12 @@ docker compose ps
 ```
 ### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
 
+<img width="1911" height="434" alt="image" src="https://github.com/user-attachments/assets/c765c959-4ad8-4f36-a373-4a3639bf91f0" />
+
+<img width="1209" height="915" alt="image" src="https://github.com/user-attachments/assets/24d85561-3529-4145-a732-c8e21def2c1e" />
+
+
+
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
 docker compose down
